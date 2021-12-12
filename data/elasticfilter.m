@@ -4,7 +4,7 @@ clc;
 
 rng(1);
 
-data_name = "chikusei"; 
+data_name = "wadc"; 
 
 deformation_type = "normal_nonrigid"; 
 
@@ -13,7 +13,7 @@ deformation_type = "normal_nonrigid";
 psf_pos = "center";
 
 % define the maximum deformation
-alpha = 5; 
+alpha = 3; 
 
 % load data
 if data_name == "chikusei"
