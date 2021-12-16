@@ -4,6 +4,7 @@ Ke Zheng, [Lianru Gao](https://scholar.google.com/citations?user=f6OnhtcAAAAJ&hl
 ***
 The demo code implements the "NonRegSRNet: a Non-rigid Registration a Non-rigid Registration". 
 <img src="./ModelFramework.png" width="666px"/>
+
 **Fig.1.** An illustration of the proposed network.
 ***
 ### Dependencies
